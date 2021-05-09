@@ -4,4 +4,5 @@ Assingment 1
 
 NurtureLabs Intern Assignments
 
-https://docs.google.com/document/d/1nmzIOlzVBKdzPOjq7xR2iwHq3JkJaiuEwJ6WFE_LasA/edit#
+Sir its my first Time in Django Framework but I am good in Python, and I also good in API development in C# using MVC.NET
+
